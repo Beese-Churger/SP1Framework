@@ -30,7 +30,7 @@ std::string LockSprite(int Line)
 	}
 	else if (Line == 3)
 	{
-		text = "32,40,123,59,93,41,30";
+		text = "32,40,123,59,93,41,32";
 	}
 	return text;
 }
